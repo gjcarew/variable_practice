@@ -4,3 +4,6 @@ wife = "Morgan"
 cat_1_age = 2
 cat_2_age = 2
 wife_age = 30
+cat_1_weight = 8.6
+cat_2_weight = 14.7
+wife_weight = 190.6
