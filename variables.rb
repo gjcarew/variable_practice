@@ -1,5 +1,5 @@
-cat1 = "Vivian"
-cat2 = "Tao"
+cat_1 = "Vivian"
+cat_2 = "Tao"
 wife = "Morgan"
 cat_1_age = 2
 cat_2_age = 2
@@ -7,3 +7,6 @@ wife_age = 30
 cat_1_weight = 8.6
 cat_2_weight = 14.7
 wife_weight = 190.6
+cat_1_naughty = FALSE
+cat_2_naughty = TRUE
+wife_naughty = TRUE
